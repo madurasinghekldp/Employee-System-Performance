@@ -1,0 +1,35 @@
+blinker @ file:///home/conda/feedstock_root/build_artifacts/blinker_1731096409132/work
+click @ file:///D:/bld/click_1734858834134/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+contourpy @ file:///D:/bld/contourpy_1731428318009/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1741793020411/work
+Flask-SQLAlchemy @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_flask-sqlalchemy_1733868589/work
+fonttools @ file:///D:/bld/fonttools_1743732212146/work
+greenlet @ file:///D:/bld/greenlet_1734532785148/work
+gunicorn==23.0.0
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1737420181517/work
+itsdangerous @ file:///home/conda/feedstock_root/build_artifacts/itsdangerous_1733308265247/work
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
+kiwisolver @ file:///D:/bld/kiwisolver_1736908223141/work
+MarkupSafe @ file:///D:/bld/markupsafe_1733219601796/work
+matplotlib==3.10.1
+munkres==1.1.4
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1731521053/work
+numpy @ file:///D:/bld/numpy_1742254808786/work/dist/numpy-2.2.4-cp312-cp312-win_amd64.whl#sha256=ab7e8bea9496bdf90f1d6df4b08875e5a1408310f5c565b5df0989d8ecc1e105
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+pillow @ file:///D:/bld/pillow_1735929729156/work
+PyMySQL @ file:///home/conda/feedstock_root/build_artifacts/pymysql_1734209850979/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1743089729650/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+python-dotenv @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_python-dotenv_1742948348/work
+scikit-fuzzy @ file:///home/conda/feedstock_root/build_artifacts/scikit-fuzzy_1724617026425/work
+scipy @ file:///C:/bld/scipy-split_1739790745069/work/dist/scipy-1.15.2-cp312-cp312-win_amd64.whl#sha256=6143c228089946cda03218f94fcc2e1883a67f24023bffdb498bf88269edb217
+setuptools==75.8.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1733380938961/work
+SQLAlchemy @ file:///D:/bld/sqlalchemy_1743109492829/work
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1743201626/work
+unicodedata2 @ file:///D:/bld/unicodedata2_1736692520607/work
+Werkzeug @ file:///home/conda/feedstock_root/build_artifacts/werkzeug_1733160440960/work
+wheel==0.45.1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1732827521216/work
